@@ -10,18 +10,13 @@
 #include <string>
 
 class StringStack {
-   StringStack *head = new StringStack();
 
 public:
     // construct empty stack
-    StringStack() {
-        StackNode *headNode = new StackNode("");
-    }
+    StringStack();
 
     // return true if stack empty, false otherwise
-    bool empty() const{
-        return head
-    };
+    bool empty() const;
 
     // push new_item on top of stack
     void push(std::string new_item);
@@ -47,6 +42,8 @@ private:
     };
     // TODO: declare the node pointer:
     StackNode *stkPoint = nullptr;
+    StackNode *headNode = nullptr;
+    StackNode *currentNode = nullptr;
 };
 
 #endif

@@ -11,13 +11,25 @@ using namespace std;
 
 // TODO: implement StringStack here:
 
-StringStack *head = new StringStack();
-
-bool StringStack::empty() const {
-    return head. == nullptr;
+StringStack::StringStack() {
+    headNode = new StackNode("");
+    stkPoint = headNode;
+    currentNode = headNode;
 }
 
-void StringStack::push(new_item){
+bool StringStack::empty() const {
+    if (currentNode == headNode && headNode == nullptr) {
+        return true;
+    }
+    return false;
+}
+
+void StringStack::push(std::string new_item){
+    if (
+    }
+
+
+
 
 }
 
