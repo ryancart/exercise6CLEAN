@@ -1,0 +1,3 @@
+C:/Users/diver/CLionProjects/exercise6CLEAN/cmake-build-debug/CMakeFiles/exercise6CLEAN.dir
+C:/Users/diver/CLionProjects/exercise6CLEAN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diver/CLionProjects/exercise6CLEAN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
