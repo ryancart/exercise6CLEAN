@@ -1,0 +1,10 @@
+# ninja log v5
+1	191	7190328183708947	CMakeFiles/exercise6CLEAN.dir/sstack.cpp.obj	878af956b267fb3b
+4	254	7190328184347598	CMakeFiles/exercise6CLEAN.dir/stacktest.cpp.obj	d839223e1defe370
+254	378	7190328185565351	exercise6CLEAN.exe	f1437ba967cdf9d0
+3	174	7190339880455582	CMakeFiles/exercise6CLEAN.dir/sstack.cpp.obj	878af956b267fb3b
+174	242	7190339881116182	exercise6CLEAN.exe	f1437ba967cdf9d0
+2	170	7190342090180580	CMakeFiles/exercise6CLEAN.dir/sstack.cpp.obj	878af956b267fb3b
+170	234	7190342090796925	exercise6CLEAN.exe	f1437ba967cdf9d0
+2	166	7190349645941403	CMakeFiles/exercise6CLEAN.dir/sstack.cpp.obj	878af956b267fb3b
+167	230	7190349646548134	exercise6CLEAN.exe	f1437ba967cdf9d0

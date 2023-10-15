@@ -44,6 +44,8 @@ private:
     StackNode *stkPoint = nullptr;
     StackNode *headNode = nullptr;
     StackNode *currentNode = nullptr;
+    StackNode *previousNode = nullptr;
+    StackNode *placeFindingNode = nullptr;
 };
 
 #endif
